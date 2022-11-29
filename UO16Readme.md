@@ -1,3 +1,5 @@
+Hinweis: Beschreibung lieber in Raw Format betrachten zur besseren Lesbarkeit.
+
 Aktueller Log:
 
 Übersetzungsdinge // Text / Skript der nicht abgeändert werden kann:
